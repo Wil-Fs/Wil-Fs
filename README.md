@@ -23,12 +23,16 @@ Linguagens:
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
   Backend:
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   Os:
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
   Estatisticas:
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wil-Fs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wil-Fs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
