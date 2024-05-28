@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  Olá sou William Ferreira, atualmente me formando na área de desenvolvimento web pela EBAC, e concluindo Análise e Desenvolvimento de Sistemas na Decomplica.
+Sou William Ferreira, atualmente me formando na área de desenvolvimento web pela EBAC, e concluindo Análise e Desenvolvimento de Sistemas na Decomplica.
 
 Meus contatos:
   📬 Email: williamfs133@gmail.com 
