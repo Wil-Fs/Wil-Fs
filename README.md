@@ -3,7 +3,7 @@
 
 Meus contatos:
   📬 Email: williamfs133@gmail.com 
-  📬 Linkedin: [https://www.linkedin.com/in/william-ferreira-da-silva-69886a21a/](https://www.linkedin.com/in/william-fs?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLDvwOHObR2eoxWjipXYkAA%3D%3D)
+  📬 Linkedin: https://www.linkedin.com/in/william-fs
 
 Formação:
 Analise Desenvolvimento de Sistemas - Uniamerica (Descomplica)
