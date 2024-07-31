@@ -5,9 +5,9 @@ Meus contatos:
   📬 Email: williamfs133@gmail.com 
   📬 Linkedin: https://www.linkedin.com/in/william-fs
 
-Formação:
-Analise Desenvolvimento de Sistemas - Uniamerica (Descomplica)
-Desenvolvedor Full Stack Python - EBAC
+Formação: <br/>
+Analise Desenvolvimento de Sistemas - Uniamerica (Descomplica) <br/>
+Desenvolvedor Full Stack Python - EBAC <br/>
 
 
 <h3 align="left">Linguagens e frameworks:</h3>
